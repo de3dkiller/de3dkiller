@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+<a href="https://top.gg/bot/1094942437820076083">
+  <img src="https://top.gg/api/widget/1094942437820076083.svg">
+</a>
 
-<!--
-**de3dkiller/de3dkiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<p align="center">  
+<img src="https://discord.c99.nl/widget/theme-4/1094511683554267197.png">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+### make sure to invite use for kisses ###
+</a>
